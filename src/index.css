@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #f3f5f7;
+  color: #1c2430;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+.app-header {
+  background: #16324f;
+}
+
+.table th {
+  font-weight: 600;
+  color: #526070;
+  white-space: nowrap;
+}
